@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "822223452472",
+    "firebase_url": "https://pii-eat.firebaseio.com",
+    "project_id": "pii-eat",
+    "storage_bucket": "pii-eat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:822223452472:android:e83592533bca2d782ee9cd",
+        "android_client_info": {
+          "package_name": "ronald.com.eat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "822223452472-eh31heci05qeb9f4autj08s7kguvtbjt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ronald.com.eat",
+            "certificate_hash": "a468d6a704948043f67037904f1b11e4893f1e45"
+          }
+        },
+        {
+          "client_id": "822223452472-04m90rvlk53lrufoig49udlu0unom56c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkMFwTV0VP_LTVslX9dDFqZTFwFjBeojg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "822223452472-04m90rvlk53lrufoig49udlu0unom56c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
